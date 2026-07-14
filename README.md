@@ -12,7 +12,6 @@
 - Computer Science and Information Systems student
 - Interested in Machine Learning, AI and Software Engineering
 - Working with Python, C, C#, C++ and SQL
-- 
 ---
 
 
