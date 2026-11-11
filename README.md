@@ -36,10 +36,6 @@
 
 ## Featured projects
 
-### LLM fine-tuning
-
-Fine-tuning and experimentation with large language models using Python, LoRA and GPU infrastructure.
-
 ### Machine Learning
 
 Projects related to model training, data processing and deployment.
